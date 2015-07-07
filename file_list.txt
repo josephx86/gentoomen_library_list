@@ -21,7 +21,6 @@
                 (λ .C Algorithms For Real Time DsP - Paul Embree.pdf)
                 (λ .C and Data Structures - P.S. Deshpande.chm)
                 (λ .C++ Data Structures 3rd ed - Nell Dale.pdf)
-                (λ .CPlusPlus Plus Data Structures, 3rd Ed - Nell Dale.chm)
             )
             (λ .Data Structures and Algorithms in Java, 4th Edition.pdf)
             (λ .Data Structures and Algorithms in Java, 5th Edition.pdf)
