@@ -34,7 +34,6 @@
             (λ .Introduction to Algorithms-Cormen Solution.pdf)
             (λ .knuth_-_the_art_of_computer_programming_-_vol.1.djvu)
             (λ .Petascale Computing Algorithms and Applications.pdf)
-            (λ .Robert Sedgewick - Algorithms.pdf)
             (λ .Springer - Encyclopedia of Algorithms (2008).pdf)
             (λ .Teach Yourself Data Structures And Algorithms In 24 hours - Robert Lafore.pdf)
             (λ .The Art Of Computer Programming 2nd ed Vol3 - Donald Knuth.djvu)
