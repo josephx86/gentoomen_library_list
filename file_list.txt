@@ -6,7 +6,6 @@
             (λ .Algorithm Design - John Kleinberg - Éva Tardos.pdf)
             (λ .Algorithms and Data Structures in C++(diamond-torrents.info).chm)
             (λ .Algorithms in C.pdf)
-            (λ .Algorithms_in_C_-_Sedgewick.pdf)
             (λ .Algorithms_in_Pascal_-_Sedgewick.pdf)
             (λ .Algorithms_Nutshell .pdf)
             (λ .ALGORITHMS - ROBERT SEDGEWICK.pdf)
